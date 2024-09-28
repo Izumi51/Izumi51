@@ -23,6 +23,10 @@ Meu nome é Izumi, tenho 20 anos e estou atualmente cursando Análise e Desenvol
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
+## Ferramentas:
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+
 ## GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Izumi51&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"/>
