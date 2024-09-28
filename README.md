@@ -1,12 +1,12 @@
-# Olá! 👋
-Meu nome é Izumi, tenho 20 anos e estou atualmente cursando Análise e Desenvolvimento de Sistemas na FAETERJ RIO.
+# Hello! 👋  
+My name is Izumi, I’m 20 years old, and I’m currently studying Systems Analysis and Development at FAETERJ RIO.
 
-## Sobre mim:
-- 📚 Cursando o Terceiro Período. 
-- 🎲 Aprender em C pode ser um desafio.
-- 🎯 Procurando um raciocínio lógico e eficiente.
+## About me:
+- 📚 In my third semester.  
+- 🎲 Learning in C can be a challenge.  
+- 🎯 Looking for logical and efficient reasoning.  
 
-## Tecnologias:
+## 💻 Technologies:
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
     <img width="12" />
@@ -23,11 +23,10 @@ Meu nome é Izumi, tenho 20 anos e estou atualmente cursando Análise e Desenvol
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-## Ferramentas:
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+## 🛠️ Tools:
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Izumi51&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"/>
 </div>
