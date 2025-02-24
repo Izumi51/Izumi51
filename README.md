@@ -2,7 +2,7 @@
 My name is Izumi, I’m 20 years old, and I’m currently studying Systems Analysis and Development at FAETERJ RIO.
 
 ## About me:
-- 📚 In my third semester.  
+- 📚 In my fourth semester.  
 - 🎲 Learning in C can be a challenge.  
 - 🎯 Looking for logical and efficient reasoning.  
 
