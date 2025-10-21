@@ -1,8 +1,8 @@
 # Hello! 👋  
-My name is Izumi, I’m 20 years old, and I’m currently studying Systems Analysis and Development at FAETERJ RIO.
+My name is Izumi, I’m 21 years old, and I’m currently studying Systems Analysis and Development at FAETERJ RIO.
 
 ## About me:
-- 📚 In my fourth semester.  
+- 📚 In my fifth semester.  
 - 🎲 Learning in C can be a challenge.  
 - 🎯 Looking for logical and efficient reasoning.  
 
@@ -21,6 +21,8 @@ My name is Izumi, I’m 20 years old, and I’m currently studying Systems Analy
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="mysql logo"  />
 </div>
 
 ## 🛠️ Tools:
