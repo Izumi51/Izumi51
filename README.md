@@ -1,12 +1,12 @@
-# Hello! 👋  
-My name is Izumi, I’m 21 years old, and I’m currently studying Systems Analysis and Development at FAETERJ RIO.
+# Oi! 👋  
+Meu nome é Izumi, Eu tenho 21 anos, e estou atualmente cursando Análise e Desenvolvimento de Sistemas na FAETERJ-RIO.
 
-## About me:
-- 📚 In my fifth semester.  
-- 🎲 Learning in C can be a challenge.  
-- 🎯 Looking for logical and efficient reasoning.  
+## Sobre mim:
+- 📚 Estou no meu Quinto Período.  
+- 🎲 Gosto de C.  
+- 🎯 Busco um raciocínio lógico e eficiente.  
 
-## 💻 Technologies:
+## 💻 Tecnologias:
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
     <img width="12" />
@@ -25,7 +25,7 @@ My name is Izumi, I’m 21 years old, and I’m currently studying Systems Analy
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-## 🛠️ Tools:
+## 🛠️ Ferramentas:
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 ## 📊 GitHub Analytics
